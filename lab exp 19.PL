@@ -1,0 +1,15 @@
+student(101, ravi).
+student(102, priya).
+student(103, kumar).
+teacher(t1, ramesh).
+teacher(t2, priya_devi).
+teacher(t3, kumar_sir).
+subject(sub101, computer_science).
+subject(sub102, mathematics).
+subject(sub103, physics).
+teaches(t1, sub101).
+teaches(t2, sub102).
+teaches(t3, sub103).
+studies(101, sub101).
+studies(102, sub102).
+studies(103, sub103).
